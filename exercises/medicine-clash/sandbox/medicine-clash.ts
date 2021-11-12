@@ -1,0 +1,1 @@
+export const medicine-clash = () => 'change me here'
